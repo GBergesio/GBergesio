@@ -34,11 +34,13 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobephotoshop.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobeillustrator.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobelightroom.svg">
 </div>
 <div style="display: inline_block" align="left">
   <h3>My latest projects</h3> 
-  <a href="https://kobestore.herokuapp.com/store/index.html">Kobe Store</a>
+  <a href="https://kobestore.herokuapp.com/store/index.html">Kobe Store</a><br>
   <a href="https://runebank.herokuapp.com/web/index.html">Rune Bank</a> 
 </div>
 
