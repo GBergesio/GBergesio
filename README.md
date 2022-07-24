@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobeillustrator.svg">
 </div>
 <div style="display: inline_block" align="left">
   <h3>My latest projects</h3> 
